@@ -1,0 +1,11 @@
+# versions used on Hábrók where known
+torch==2.7.1
+scikit-learn==1.6.1
+numpy
+pandas
+scipy
+matplotlib
+astropy
+umap-learn
+joblib
+jupyterlab
