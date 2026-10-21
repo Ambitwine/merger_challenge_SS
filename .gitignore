@@ -1,0 +1,16 @@
+# data, checkpoints and outputs
+*.npy
+*.npz
+*.pt
+*.ckpt
+*.ckpt.tmp
+*.joblib
+*.fits
+*.tar.gz
+*.log
+*.csv
+*.pdf
+*.png
+
+__pycache__/
+.ipynb_checkpoints/
